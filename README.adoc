@@ -1,0 +1,76 @@
+= SAÉ 3.01 2022-2023
+:icons: font
+:models: models
+:experimental:
+:incremental:
+:numbered:
+:toc: macro
+:window: _blank
+:correction!:
+
+// Useful definitions
+:asciidoc: http://www.methods.co.nz/asciidoc[AsciiDoc]
+:icongit: icon:git[]
+:git: http://git-scm.com/[{icongit}]
+:plantuml: https://plantuml.com/fr/[plantUML]
+:vscode: https://code.visualstudio.com/[VS Code]
+
+ifndef::env-github[:icons: font]
+// Specific to GitHub
+ifdef::env-github[]
+:correction:
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+:icongit: Git
+endif::[]
+
+:baseURL: https://github.com/votreGroupe/leProjet
+
+// Tags
+image:{baseURL}/actions/workflows/tests.yml/badge.svg[Test] 
+image:{baseURL}/actions/workflows/build.yml/badge.svg[Build] 
+image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
+//---------------------------------------------------------------
+
+TIP: Pensez à mettre à jour les infos dans ce fichier pour que les badges pointent sur les résultats effectifs de vos intégrations continue ou sur la bonne licence logicielle.
+
+WARNING: Ce dépôt présente le projet à développer dans le cadre de la SAÉ 3.01 du BUT1 Informatique de l'IUT de Blagnac.
+
+toc::[]
+
+== Auteurs
+
+Ce projet est réalisé par :
+
+- https://github.com/janeDoe[Jane Doe]
+- https://github.com/johnSmith[John Smith]
+...
+
+== Contexte général
+
+TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
+
+=== Dépôt initial
+
+Ce dépôt initial a été créé pour que tous les groupes de 2ème année aient les mêmes informations de départ.
+
+Vous y trouverez des fichiers qui peuvent être supprimés s'ils ne vous sont pas utiles :
+
+- `.gitignore` => un fichier minimaliste des éléments à ne pas pousser en général sur vos dépôts (utiliser la commande `git add -f` pour forcer l'ajout d'un fichier Jar qui ne bougera plus, pour archive par exemple).
+- `.github` => le répertoire qui contient des éléments de gestion de projet :
+** `actions/workflows` => le repertoire qui contient les actions à lancer à chaque push sur votre repo. 
+** `ISSUE_TEMPLATE` => le repertoire qui contient quelques templates pour vos issues.
+
+=== Liens utiles
+
+- Le https://webetud.iut-blagnac.fr/course/view.php?id=841[cours Moodle] sur la SAE
+
+TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
+
+== Réalisation 
+
+TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
