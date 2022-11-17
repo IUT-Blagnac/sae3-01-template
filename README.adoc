@@ -28,12 +28,13 @@ ifdef::env-github[]
 :icongit: Git
 endif::[]
 
-:baseURL: https://github.com/votreGroupe/leProjet
+// /!\ A MODIFIER !!!
+:baseURL: https://github.com/IUT-Blagnac/sae3-01-template
 
 // Tags
-image:{baseURL}workflows/blank.yml/badge.svg[Bidon] 
-image:{baseURL}workflows/build.yml/badge.svg[Build] 
-image:{baseURL}workflows/tests.yml/badge.svg[Tests] 
+image:{baseURL}/actions/workflows/blank.yml/badge.svg[Bidon] 
+image:{baseURL}/actions/workflows/build.yml/badge.svg[Build] 
+image:{baseURL}/actions/workflows/tests.yml/badge.svg[Tests] 
 image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
 //---------------------------------------------------------------
 
@@ -81,7 +82,7 @@ TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 
 TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
 
-== Suivi qualité & Gestion de projet
+== Gestion de projet & Qualité
 
 Chaque sprint (semaine) vous devrez livrer une nouvelle version de votre application (release).
 Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.com/en/repositories/releasing-projects-on-github[Releases].
