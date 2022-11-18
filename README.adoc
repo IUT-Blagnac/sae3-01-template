@@ -44,13 +44,15 @@ WARNING: Ce dépôt présente le projet à développer dans le cadre de la SAÉ 
 
 toc::[]
 
-== Auteurs
+== Equipe
 
-Ce projet est réalisé par :
+Projet est réalisé par::
 
 - https://github.com/janeDoe[Jane Doe]
 - https://github.com/johnSmith[John Smith]
 ...
+
+Tuteur/tutrice enseignant(e) de l'équipe:: mailto:jean-michel.bruel@univ-tlse2.fr[JMB]
 
 == Contexte général
 
@@ -89,7 +91,7 @@ Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.c
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : 
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-template/releases/tag/v0.1.2[v0.1.2]
 - Lien vers la doc technique
 - Lien vers la doc utilisateur
 - Liste des (ou lien vers les) User Stories (ToDo/Ongoing/Done) et % restant
