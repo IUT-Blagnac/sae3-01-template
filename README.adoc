@@ -42,6 +42,9 @@ TIP: Pensez à mettre à jour les infos dans ce fichier pour que les badges poin
 
 WARNING: Ce dépôt présente le projet à développer dans le cadre de la SAÉ 3.01 du BUT1 Informatique de l'IUT de Blagnac.
 
+Ce fichier `README.adoc` (dont vous lisez sûrement le rendu HTML automatiquement effectué par GitHUb), fait partie du dépôt initial cloné à partir du lien GitHub classroom qui vous a été donné en cours (https://classroom.github.com/a/OUF7gxEa).
+Vous trouverez le dépôt "template" qui a servi de base ici : https://github.com/IUT-Blagnac/sae3-01-template. En complément du cours Moodle de la SAE 3.01 (cf. <<liensUtiles>>), ce dépôt template vous permet d'accéder à des exemples d'https://github.com/IUT-Blagnac/sae3-01-template/issues[issues], de https://github.com/IUT-Blagnac/sae3-01-template/releases[releases], ou d'autres artefacts à venir.
+
 toc::[]
 
 == Equipe
@@ -74,9 +77,12 @@ Vous y trouverez des fichiers qui peuvent être supprimés s'ils ne vous sont pa
 
 TIP: Adaptez ces fichiers à votre projet et à votre organisation. Et inspirez-vous en pour en ajouter.
 
+[[liensUtiles]]
 === Liens utiles
 
 - Le https://webetud.iut-blagnac.fr/course/view.php?id=841[cours Moodle] sur la SAE
+- Le dépôt https://github.com/IUT-Blagnac/sae3-01-template[template] qui sert de base à tous les dépôts étudiants.
+- Le lien https://classroom.github.com/a/OUF7gxEa[classroom] si besoin.
 
 TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 
