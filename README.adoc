@@ -1,4 +1,4 @@
-= SAÉ 3.01 2022-2023
+= SAÉ 3.01 2023-2024
 :icons: font
 :models: models
 :experimental:
